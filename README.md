@@ -6,7 +6,7 @@
 <a href="http://linkedin.com/in/saurav-kumar-4585b1265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurav-kumar-4585b1265" height="30" width="40" /></a>
 <a href="https://instagram.com/agr.srv___099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agr.srv___099" height="30" width="40" /></a>
 <a href="https://youtube.com/@Codebookplay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codebook play" height="30" width="40" /></a>
-<a href="https://discord.gg/Agr_srv90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Agr_srv90#9703" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@Agr_srv90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Agr_srv90#9703" height="30" width="40" /></a>
 </p>
 
 </p>
