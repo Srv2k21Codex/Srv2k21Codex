@@ -3,8 +3,8 @@
 <h1 align="center";style="font-family:'FontName',sans-serif; font-style:italic"> 👋 Hello, Welcome to my Github profile</h1>
 <h3 align="center">I'm Saurav Ag. Passionate software developer building innovative <br>solution by crafting code with precision and passion.</br>An Open source enthusiast.</br></h3>
 <p align="center">
-<a href="http://linkedin.com/in/saurav-kumar-4585b1265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-aadhav-251773170" height="30" width="40" /></a>
-<a href="https://instagram.com/agr.srv___099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajayaadhav" height="30" width="40" /></a>
+<a href="http://linkedin.com/in/saurav-kumar-4585b1265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurav-kumar-4585b1265" height="30" width="40" /></a>
+<a href="https://instagram.com/agr.srv___099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agr.srv___099" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/codebook play" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codebook play" height="30" width="40" /></a>
 <a href="https://discord.gg/Agr_srv90#9703" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Agr_srv90#9703" height="30" width="40" /></a>
 </p>
